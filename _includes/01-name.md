@@ -1,2 +1,2 @@
-## My name is Denzel
+## My name is Denzel Witbooi
 ### A third year at VCPE
