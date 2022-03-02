@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* I enjoy listening to music
+* Researching new technologies
+* Playing rugby 
+* I enjoy my sleep 😄 
